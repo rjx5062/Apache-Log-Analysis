@@ -9,7 +9,8 @@ The primary objective of the project is to enhance the participant’s knowledge
 
 **Procedure**
 ▪ View Apache Sample Log
-▪ Understand Apache Lo s
+
+▪ Understand Apache Logs
 ▪ Use Data set as given
 ▪ Parse & Analyze
 ▪ Analytics Requirement
