@@ -16,7 +16,7 @@ The primary objective of the project is to enhance the participant’s knowledge
 ▪ Generate Project Report
 
 **Apache Data Sets**
-▪ usask_access_log.gz - compressed file containing "UofS_access_log"; an apache log 
+▪ usask_access_log.gz - compressed file containing "UofS_access_log"; an apache log file
 
 **Note:**
 ▪ Site: Weblogs from NASA WebSite
